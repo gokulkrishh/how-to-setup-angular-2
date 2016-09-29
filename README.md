@@ -22,11 +22,11 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 #### Step 2
 
-*Create a folder called ```src/```*
+*Create a folder called ```src/```, ```public/``*.
 
-- ```index.html```    - To load the root component (All the links, script tags will be added by webpack).
+- ```src/index.html```    - To load the root component (All the links, script tags will be added by webpack).
 
-- ```app/```          - App component (css, html, component.ts, module.ts files)
+- ```src/app/```          - App component (css, html, component.ts, module.ts files)
 
 - ```public/css```    - CSS which are application specific.
 
