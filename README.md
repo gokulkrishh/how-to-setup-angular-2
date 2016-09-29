@@ -2,6 +2,7 @@
 
 > Guide to get started with Angular 2 using webpack.
 
+Source is from [Angular 2 Webpack](https://angular.io/docs/ts/latest/guide/webpack.html)
 
 #### Step 1
 
@@ -13,9 +14,9 @@
 
 - ```typings.json```      - Additional configuration for typescript.
 
-- ```webpack.dev.js & webpack.prod.js``` - Webpack configurations for dev and production env.
+- ```webpack.config.js``` - Common webpack configuration for both dev & production env.
 
-- ```webpack.config.js``` - To run the project.
+- ```webpack.dev.js & webpack.prod.js``` - Webpack configurations for dev and production env.
 
 More details on [typescript configurations](https://angular.io/docs/ts/latest/guide/typescript-configuration.html).
 
@@ -23,11 +24,28 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 *Create a folder called ```src/```*
 
-# WIP
+- ```index.html```    - To load the root component (All the links, script tags will be added by webpack).
 
+- ```app/```          - App component (css, html, component.ts, module.ts files)
+
+- ```public/css```    - CSS which are application specific.
+
+- ```public/images``` - Images.
+
+#### Step 3 - Installation
+
+*Fork this repo*
+
+- ```npm install```   - To install dependencies.
+
+- ```npm run start``` - To run the project.
+
+- ```npm run```       - To list the available commands.
+
+
+*Thats all, you are good to go with angular 2 development. Have fun!!*
 
 ##### References
 
-- [QUICKSTART](https://angular.io/docs/ts/latest/quickstart.html)
-
-- [WEBPACK: AN INTRODUCTION](https://angular.io/docs/ts/latest/guide/webpack.html)
+- [angular 2 quickstart](https://angular.io/docs/ts/latest/quickstart.html)
+- [webpack introduction to angular 2](https://angular.io/docs/ts/latest/guide/webpack.html)
