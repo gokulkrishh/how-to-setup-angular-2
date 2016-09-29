@@ -1,4 +1,7 @@
-# Angular 2 Quick Start
+
+![Angular Logo](https://raw.githubusercontent.com/gokulkrishh/angular-2-quick-start/master/public/images/angular.png)
+
+# Angular 2 Quick Start Guide
 
 > Guide to get started with Angular 2 using webpack.
 
@@ -22,7 +25,7 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 #### Step 2
 
-*Create a folder called ```src/```, ```public/``*.
+*Create a folder called ```src/```, ```public/```*.
 
 - ```src/index.html```    - To load the root component (All the links, script tags will be added by webpack).
 
@@ -45,7 +48,10 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 *Thats all, you are good to go with angular 2 development. Have fun!!*
 
-##### References
+#### References
 
 - [angular 2 quickstart](https://angular.io/docs/ts/latest/quickstart.html)
 - [webpack introduction to angular 2](https://angular.io/docs/ts/latest/guide/webpack.html)
+
+
+##### MIT Licensed
