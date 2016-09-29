@@ -3,11 +3,11 @@
 
 # Angular 2 Quick Start Guide
 
-> Guide to get started with Angular 2 using webpack.
+> Guide to get started with Angular 2 using webpack. Learn more about angular 2 by doing it from scratch.
 
 Source is from [Angular 2 Webpack](https://angular.io/docs/ts/latest/guide/webpack.html)
 
-#### Step 1
+#### Step 1 - Configuration files
 
 *Setup the configuration files*
 
@@ -23,7 +23,7 @@ Source is from [Angular 2 Webpack](https://angular.io/docs/ts/latest/guide/webpa
 
 More details on [typescript configurations](https://angular.io/docs/ts/latest/guide/typescript-configuration.html).
 
-#### Step 2
+#### Step 2 - Folder Setup
 
 *Create a folder called ```src/```, ```public/```*.
 
