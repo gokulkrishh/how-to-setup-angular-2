@@ -3,8 +3,6 @@
 
 # Angular 2 Quick Start Guide
 
-[![Build Status](https://travis-ci.org/gokulkrishh/angular-2-quick-start.svg?branch=master)](https://travis-ci.org/gokulkrishh/angular-2-quick-start)
-
 > Guide to get started with Angular 2 using webpack. Learn more about angular 2 by doing it from scratch.
 
 ### [Demo](https://gokulkrishh.github.io/angular-2-quick-start)
