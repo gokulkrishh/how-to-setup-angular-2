@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Guide to get started with Angular 2",
   "scripts": {
+    "install": "npm install postinstall && npm install",
     "start": "webpack-dev-server --inline --progress --port 8080",
     "test": "karma start",
-    "build": "rimraf dist && webpack --config webpack.prod.js --progress --profile --bail",
+    "build": "rimraf dist && webpack --config config/webpack.prod.js --progress --profile --bail",
     "postinstall": "typings install"
   },
   "dependencies": {
@@ -50,7 +51,7 @@
     "type": "git",
     "url": "git+https://github.com/gokulkrishh/angular-2-quick-start.git"
   },
-  "author": "",
+  "author": "gokulkrishh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gokulkrishh/angular-2-quick-start/issues"

@@ -19,7 +19,9 @@ Source is from [Angular 2 Webpack](https://angular.io/docs/ts/latest/guide/webpa
 
 - ```webpack.config.js``` - Common webpack configuration for both dev & production env.
 
-- ```webpack.dev.js & webpack.prod.js``` - Webpack configurations for dev and production env.
+- ```config/webpack.dev.js & config/webpack.prod.js``` - Webpack configurations for dev and production env.
+
+- ```config/karma.conf.js``` - To run karma test cases.
 
 More details on [typescript configurations](https://angular.io/docs/ts/latest/guide/typescript-configuration.html).
 
@@ -39,12 +41,13 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 *Fork this repo ```git clone https://github.com/gokulkrishh/angular-2-quick-start```*
 
-- ```npm install```   - To install dependencies.
+- ```npm run install``` - To install dependencies.
 
-- ```npm run start``` - To run the project.
+- ```npm run start```   - To run the project.
 
-- ```npm run```       - To list the available commands.
+- ```npm run test```    - To run karma test cases.
 
+- ```npm run build```   - To build the project for production.
 
 *Thats all, you are good to go with angular 2 development. Have fun!!*
 
