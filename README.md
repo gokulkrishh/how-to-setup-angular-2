@@ -37,7 +37,7 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 ### Step 3 - Installation
 
-*Fork this repo*
+*Fork this repo ```git clone https://github.com/gokulkrishh/angular-2-quick-start```*
 
 - ```npm install```   - To install dependencies.
 
