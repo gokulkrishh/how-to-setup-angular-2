@@ -9,6 +9,8 @@
 
 Source is from [Angular 2 Webpack](https://angular.io/docs/ts/latest/guide/webpack.html)
 
+**Follow the below steps to do it from scratch or if your lazy just clone the repo and follow the ```step 3```.**
+
 ### Step 1 - Configuration files
 
 *Setup the configuration files*
