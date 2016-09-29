@@ -53,6 +53,8 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 - ```npm run build```   - To build the project for production.
 
+- ```npm run deploy```  - To deploy the application in github pages.
+
 *Thats all, you are good to go with angular 2 development. Have fun!!*
 
 #### References
