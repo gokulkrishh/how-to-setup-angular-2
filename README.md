@@ -7,7 +7,7 @@
 
 Source is from [Angular 2 Webpack](https://angular.io/docs/ts/latest/guide/webpack.html)
 
-#### Step 1 - Configuration files
+### Step 1 - Configuration files
 
 *Setup the configuration files*
 
@@ -23,7 +23,7 @@ Source is from [Angular 2 Webpack](https://angular.io/docs/ts/latest/guide/webpa
 
 More details on [typescript configurations](https://angular.io/docs/ts/latest/guide/typescript-configuration.html).
 
-#### Step 2 - Folder Setup
+### Step 2 - Folder Setup
 
 *Create a folder called ```src/```, ```public/```*.
 
@@ -35,7 +35,7 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 - ```public/images``` - Images.
 
-#### Step 3 - Installation
+### Step 3 - Installation
 
 *Fork this repo*
 
