@@ -57,8 +57,9 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 #### References
 
-- [angular 2 quickstart](https://angular.io/docs/ts/latest/quickstart.html)
 - [webpack introduction to angular 2](https://angular.io/docs/ts/latest/guide/webpack.html)
+- [Travis setup for angular 2](https://medium.com/from-the-couch/angular-2-with-travis-ci-922040e01937#)
+- [angular 2 quick start](https://angular.io/docs/ts/latest/quickstart.html)
 
 
 ##### MIT Licensed
