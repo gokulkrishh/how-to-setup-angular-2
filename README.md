@@ -3,6 +3,8 @@
 
 # Angular 2 Quick Start Guide
 
+[![Build Status](https://travis-ci.org/gokulkrishh/angular-2-quick-start.svg?branch=master)](https://travis-ci.org/gokulkrishh/angular-2-quick-start)
+
 > Guide to get started with Angular 2 using webpack. Learn more about angular 2 by doing it from scratch.
 
 ### [Demo](https://gokulkrishh.github.io/angular-2-quick-start)
@@ -45,7 +47,7 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 *Fork this repo ```git clone https://github.com/gokulkrishh/angular-2-quick-start```*
 
-- ```npm run install``` - To install dependencies.
+- ```npm install```     - To install dependencies.
 
 - ```npm run start```   - To run the project.
 
@@ -59,9 +61,9 @@ More details on [typescript configurations](https://angular.io/docs/ts/latest/gu
 
 #### References
 
-- [webpack introduction to angular 2](https://angular.io/docs/ts/latest/guide/webpack.html)
+- [Webpack introduction to angular 2](https://angular.io/docs/ts/latest/guide/webpack.html)
 - [Travis setup for angular 2](https://medium.com/from-the-couch/angular-2-with-travis-ci-922040e01937#)
-- [angular 2 quick start](https://angular.io/docs/ts/latest/quickstart.html)
+- [Angular 2 quick start](https://angular.io/docs/ts/latest/quickstart.html)
 
 
 ##### MIT Licensed
